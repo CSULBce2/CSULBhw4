@@ -1,5 +1,0 @@
-:root { --ink: #0d1b2a; }
-body { font-family: system-ui, Arial, sans-serif; margin: 24px; color: var(--ink); }
-h1, h2 { margin: 0 0 12px; }
-a { display: inline-block; margin: 6px 0; }
-small { color: #555; }
